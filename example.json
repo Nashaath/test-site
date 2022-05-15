@@ -1,0 +1,16 @@
+{
+  "index_name": "nashaath",
+  "start_urls": [
+    "https://nashaath.github.io/test-site"
+  ],
+  "stop_urls": [],
+  "selectors": {
+    "lvl0": "FIXME h1",
+    "lvl1": "FIXME h2",
+    "lvl2": "FIXME h3",
+    "lvl3": "FIXME h4",
+    "lvl4": "FIXME h5",
+    "lvl5": "FIXME h6",
+    "text": "FIXME p, FIXME li"
+  }
+}
