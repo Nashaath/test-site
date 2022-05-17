@@ -14,9 +14,9 @@ nav:
   - Welcome:
     - Overview: README.md 
   - Steps:
-    - 1 Develop an API: develop.md 
-    - 2 Deploy an API: deploy.md
-    - 3 Manage an API: manage.md
+    - 1 MkDocs installation on Mac: steps/1-MkDocs-installation-on-Mac.md 
+    - 2 Verify your documentation and build the pages: steps/2-Verify-your-documentation-and-build-the-pages.md
+    - 3 Setup the integration to your GitHub project: steps/3-Setup-the-integration-to-your-GitHub-project.md
 
 ## DO NOT CHANGE BELOW THIS LINE
 
