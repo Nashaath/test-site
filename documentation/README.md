@@ -1,17 +1,6 @@
-# How to install MkDocs on Mac and setup the integration the GitHub pages?
+# Welcome to the Learning Portal
 
-The project contains the simplified steps to setup [MkDocs](https://www.mkdocs.org) for your GitHub project. These are tools/functionalities for the two setups.
+<product> is a digital innovation platform that allows you to develop, deploy, and manage cloud-native applications at scale via an AI-powered, low-code application development environment.
 
-### Local setup
-
-* [brew](https://brew.sh)
-* [Python 3](https://www.python.org)
-* [MkDocs](https://www.mkdocs.org)
-* [MkDocs Material Extensions](https://pypi.org/project/mkdocs-material-extensions/)
-
-### GitHub setup
-
-* [GitHub CI](https://docs.github.com/en/actions/guides/about-continuous-integration)
-* [GitHub Pages](https://pages.github.com)
-* [GitHub Branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
+This learning portal allows you to easily browse through documentation, video tutorials, webinars, and all other resources to learn about <product> and build enterprise-class integrations.
 
